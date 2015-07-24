@@ -54,9 +54,8 @@ Click on a map or walk into a public space and start chatting with other users i
 
 ### Bonus:
 
-Skill level: #advanced
-
-* [ ] Let people in the space share camera views with remote chatters. Render the remote views in VR.
+* [ ] #intermediate Add video chat capabilities for remote participants. Let local participants opt into video sharing. 
+* [ ] #advanced Let people in the space share camera views with remote chatters. Render the remote views in VR.
 
 ### Student implementations
 
