@@ -11,7 +11,7 @@ Imagine you're driving past the grocery store. Your phone buzzes, notifying you 
 
 * [ ] This should be a universal app. Rendering, data management, & routing should use the same code for both NodeJS & clients
 * [ ] Use the [universal-react-boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate) as the starting point for your app
-* [ ] Post your project on GitHub, and open a pull request with a link to your project.
+* [ ] Post your project on GitHub, and open a pull request with a link to your project
 * [ ] Use [React Native](https://facebook.github.io/react-native/) for native mobile UI
 * [ ] Use [Leaflet](http://leafletjs.com/) to select locations on the map
 * [ ] Use React, [react-stampit](https://github.com/stampit-org/react-stampit)
