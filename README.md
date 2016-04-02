@@ -14,4 +14,14 @@ ESLint has deprecated some old rules. Bring the `.eslintrc` up to date with the 
 
 ### [Runtime rtype parser](https://github.com/ericelliott/rtype/issues/62) #advanced
 
+Experience with compilers, type theory, language design would be helpful.
+
 Write a function that takes an rtype interface description as a string and returns an object that can be used for runtime introspection and type checking.
+
+Useful background:
+
+* The [Stanford Compilers course](https://www.coursera.org/course/compilers) (free online lectures)
+
+If you're curious about types, see the [introduction to types](https://class.coursera.org/compilers/lecture/45) from the Stanford Compiler course.
+
+
