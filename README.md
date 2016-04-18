@@ -31,3 +31,8 @@ If you're curious about types, see the [introduction to types](https://class.cou
 ### [CheckIn](https://github.com/learn-javascript-courses/checkin) #intermediate
 
 A simple app to keep track of what people on your teams are working on.
+
+
+### [Rejection](https://github.com/learn-javascript-courses/rejection) #basic #intermediate #advanced
+
+The game where you have to lose to win!
