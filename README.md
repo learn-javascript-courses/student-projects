@@ -1,8 +1,17 @@
-# Student Projects
+## Student Projects
 
 A list of open source projects that students can contribute to for student projects. Please feel free to join an existing project and collaborate. All your contributions to any project you've collaborated on will count toward your student achievements.
 
-## Contribute to Open Source Libraries
+
+### [Rejection](https://github.com/learn-javascript-courses/rejection) #basic #intermediate #advanced
+
+The game where you have to lose to win!
+
+
+### [CheckIn](https://github.com/learn-javascript-courses/checkin) #intermediate
+
+A simple app to keep track of what people on your teams are working on.
+
 
 ### rtype
 
@@ -31,15 +40,3 @@ Useful background:
 * The [Stanford Compilers course](https://www.coursera.org/course/compilers) (free online lectures)
 
 If you're curious about types, see the [introduction to types](https://class.coursera.org/compilers/lecture/45) from the Stanford Compiler course.
-
-
-## App Projects
-
-### [CheckIn](https://github.com/learn-javascript-courses/checkin) #intermediate
-
-A simple app to keep track of what people on your teams are working on.
-
-
-### [Rejection](https://github.com/learn-javascript-courses/rejection) #basic #intermediate #advanced
-
-The game where you have to lose to win!
