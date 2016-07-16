@@ -8,7 +8,7 @@ Do you have a project idea? [Please share!](https://github.com/learn-javascript-
 
 The game where you have to lose to win! Train yourself to be a better negotiator and win at life by asking for more and learning to appreciate rejection.
 
-### [Let's Hangout](https://github.com/learn-javascript-courses/lets-hangout)
+### [Let's Hangout](https://github.com/learn-javascript-courses/lets-hangout) #basic #intermediate #advanced
 
 Bored? Want to hang out with friends, but not sure who's available? This app will connect to your favorite social network and allow you to post a hangout invitation status message. It will also collect recent status updates from all your friends looking for similar invitations, and will watch for replies to your status message so you can see who else wants to hang out right now. Once you've selected who you want to hang out with, you can post an event update with a time and place to meet.
 
