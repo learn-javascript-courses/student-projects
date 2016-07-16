@@ -2,6 +2,7 @@
 
 A list of open source projects that students can contribute to for student projects. Please feel free to join an existing project and collaborate. All your contributions to any project you've collaborated on will count toward your student achievements.
 
+Do you have a project idea? [Please share!](https://github.com/learn-javascript-courses/student-projects/issues/new?title=Project+idea)
 
 ### [Rejection](https://github.com/learn-javascript-courses/rejection) #basic #intermediate #advanced
 
