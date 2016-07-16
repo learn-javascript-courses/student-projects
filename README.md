@@ -13,11 +13,13 @@ You'll learn about how programming language compilers parse source code, extract
 Write a function that takes an rtype interface description as a string and returns an object that can be used for runtime type checking.
 
 ```js
-parseSignature(signature: String) => {
+interface TypeChecker {
   checkInputs: Predicate,
   checkOutput: Predicate,
   checkError: Predicate
 }
+
+parseSignature(signature: String) => TypeChecker
 ```
 
 The target function will get wrapped by a utility such as [rfx](https://github.com/ericelliott/rfx). When the wrapper function gets called, it will pass inputs to `checkInputs()`. If it returns true, only then does the original function get called. When the function returns, its output will be similarly checked by `checkOutput()` before it gets returned to the original caller. If the function throws, the error will also be checked, by `checkError()`.
