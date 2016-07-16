@@ -2,25 +2,30 @@
 
 A list of open source projects that students can contribute to for student projects. Please feel free to join an existing project and collaborate. All your contributions to any project you've collaborated on will count toward your student achievements.
 
-## Library Projects
-
-### react-pure-component-starter
-
-#### [Update ESLint](https://github.com/ericelliott/react-pure-component-starter/issues/196) #easy
-
-ESLint has deprecated some old rules. Bring the `.eslintrc` up to date with the current rule names. Run `npm run lint` to spot failures, and correct the error messages.
-
+## Contribute to Open Source Libraries
 
 ### rtype
 
 #### [Runtime rtype parser](https://github.com/ericelliott/rtype/issues/62) #advanced
 
-Experience with compilers, type theory, language design would be helpful.
+You'll learn about how programming language compilers parse source code, extract its meaning, and compile output from it.
 
-Write a function that takes an rtype interface description as a string and returns an object that can be used for runtime introspection and type checking.
+Write a function that takes an rtype interface description as a string and returns an object that can be used for runtime type checking.
+
+```js
+parseSignature(signature: String) => {
+  checkInputs: Predicate,
+  checkOutput: Predicate,
+  checkError: Predicate
+}
+```
+
+The target function will get wrapped by a utility such as [rfx](https://github.com/ericelliott/rfx). When the wrapper function gets called, it will pass inputs to `checkInputs()`. If it returns true, only then does the original function get called. When the function returns, its output will be similarly checked by `checkOutput()` before it gets returned to the original caller. If the function throws, the error will also be checked, by `checkError()`.
 
 Useful background:
 
+* [How to Build a Compiler](https://www.youtube.com/watch?v=Tar4WgAfMr4) Great video by James Kyle
+* [How to Build a Compiler source](https://github.com/thejameskyle/the-super-tiny-compiler) Source companion to the James Kyle video
 * The [Stanford Compilers course](https://www.coursera.org/course/compilers) (free online lectures)
 
 If you're curious about types, see the [introduction to types](https://class.coursera.org/compilers/lecture/45) from the Stanford Compiler course.
