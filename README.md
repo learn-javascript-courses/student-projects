@@ -24,3 +24,20 @@ Contribute to real, live, active OSS projects & earn major geek cred. Here are s
 ### [Runtime rtype parser](https://github.com/ericelliott/rtype/issues/62) #advanced
 
 Contribute to an open-source library to add dynamic type checking to JavaScript.
+
+### [Redux DSM](https://github.com/ericelliott/redux-dsm)
+
+Declarative State Machines for Redux: An async state boilerplate reducer.
+
+### [Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)
+
+A boilerplate project I'd like to use as the basis for an alternative to [create-react-app](https://github.com/facebookincubator/create-react-app), Facebook's official React starter project.
+
+### [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter)
+
+A pure component dev starter kit for React. What Universal React Boilerplate is for apps, React Pure Component Starter is for stateless components.
+
+### [Cuid](https://github.com/ericelliott/cuid)
+
+Collision-resistant ids optimized for horizontal scaling and performance -- Could use an update with a more modular build approach.
+
