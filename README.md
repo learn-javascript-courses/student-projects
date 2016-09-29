@@ -17,6 +17,10 @@ Bored? Want to hang out with friends, but not sure who's available? This app wil
 A simple scrum helper app to keep track of what people on your teams are working on, without the scrum meeting.
 
 
+## OSS Jobs
+
+Contribute to real, live, active OSS projects & earn major geek cred. Here are some high-priority projects:
+
 ### [Runtime rtype parser](https://github.com/ericelliott/rtype/issues/62) #advanced
 
 Contribute to an open-source library to add dynamic type checking to JavaScript.
