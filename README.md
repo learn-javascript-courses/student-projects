@@ -29,15 +29,8 @@ Contribute to an open-source library to add dynamic type checking to JavaScript.
 
 Declarative State Machines for Redux: An async state boilerplate reducer.
 
-### [Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)
-
-A boilerplate project I'd like to use as the basis for an alternative to [create-react-app](https://github.com/facebookincubator/create-react-app), Facebook's official React starter project.
-
-### [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter)
-
-A pure component dev starter kit for React. What Universal React Boilerplate is for apps, React Pure Component Starter is for stateless components.
 
 ### [Cuid](https://github.com/ericelliott/cuid)
 
-Collision-resistant ids optimized for horizontal scaling and performance -- Could use an update with a more modular build approach.
+Collision-resistant ids optimized for horizontal scaling and performance -- Update the dependencies and build. Tackle issues.
 
