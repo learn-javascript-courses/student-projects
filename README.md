@@ -17,6 +17,15 @@ Bored? Want to hang out with friends, but not sure who's available? This app wil
 A simple scrum helper app to keep track of what people on your teams are working on, without the scrum meeting.
 
 
+### [In-Browser Code Editor]
+
+Basically the atom editor, running in the cloud.
+
+* Support ESLint
+* Realtime collaboration support (you'll need to use transactional state, merge on the server & rebase in the clients)
+* Integrate with video chat service (e.g., [Zoom.us](https://zoom.us/))
+
+
 ## OSS Jobs
 
 Contribute to real, live, active OSS projects & earn major geek cred. Here are some high-priority projects:
