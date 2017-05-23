@@ -24,7 +24,8 @@ Basically the atom editor, running in the cloud.
 * Support ESLint
 * Realtime collaboration support (you'll need to use transactional state, merge on the server & rebase in the clients)
 * Integrate with video chat service (e.g., [Zoom.us](https://zoom.us/))
-
+* File editing tabs
+* Integrate terminal to access unix tools & git operations -- (you could run the environment in docker containers)
 
 ## OSS Jobs
 
