@@ -17,7 +17,7 @@ Bored? Want to hang out with friends, but not sure who's available? This app wil
 A simple scrum helper app to keep track of what people on your teams are working on, without the scrum meeting.
 
 
-### [In-Browser Code Editor]
+### In-Browser Code Editor
 
 Basically the atom editor, running in the cloud.
 
